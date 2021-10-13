@@ -1,2 +1,0 @@
-# Ejempl
-Ejemplo de repositorio
